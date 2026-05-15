@@ -1,0 +1,20 @@
+{
+  "name": "didactic-memory",
+  "version": "1.0.0",
+  "description": "A vanilla JavaScript web application",
+  "main": "js/app.js",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server",
+    "dev": "npx live-server"
+  },
+  "keywords": [
+    "javascript",
+    "web",
+    "vanilla",
+    "didactic"
+  ],
+  "author": "gejbuc",
+  "license": "MIT",
+  "devDependencies": {}
+}
